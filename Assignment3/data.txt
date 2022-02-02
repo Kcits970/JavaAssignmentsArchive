@@ -1,0 +1,6 @@
+3,4
+Algebra,Calculus,Geometry
+Student1,72,12,78
+Student2,73,20,92
+Student3,82,30,78
+Student4,92,12,61
